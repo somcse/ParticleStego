@@ -1,1 +1,1 @@
-# ParticlStego
+# ParticlSteg
